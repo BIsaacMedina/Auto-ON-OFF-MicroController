@@ -30,7 +30,7 @@ try:
         picoPin.value(1)    # Keep picoPin turn on
         now = time.localtime()
         timeNow = "{}:{}:{}".format(now[3], now[4], now[5])
-        print(timeNow)
+        
         if timeNow == "22:0:0":
             SwitchOff()
            
