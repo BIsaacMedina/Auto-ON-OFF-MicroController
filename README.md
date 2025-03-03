@@ -12,4 +12,6 @@ Blue line will be soldered or spliced into the purple standby line from the PSU,
 
 connect to pc via motherboard pins. you need to measure the length you'll need from mounting it under the PSU.
 
+need to make a ui that interfaces with the chip to set the desired times.
+
 ### Time is printed for testing purposes. Remove before release.
